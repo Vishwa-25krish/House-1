@@ -1,0 +1,138 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header{
+      text-align: center;
+     display: flex;              /* makes items sit side by side */
+      justify-content: space-between; /* pushes left and right apart */
+      align-items: center;
+        
+    font-size: x-large;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+
+   
+}
+
+.link a{
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.link a:hover {
+    color:orange;
+    transition:0.5s;
+}
+.main-container{
+    padding: 20px;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     border-radius: 8px;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+
+
+}
+.sub{
+    padding: 20px;
+}
+.sub p{
+    font-size: xx-large;
+}
+.plans{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    
+}
+.BHK{
+   display: flex;
+   gap: 220px;
+   border-style: dashed;
+  
+}
+.plans h1{
+    text-align: center;
+}
+.table h1{
+    text-align: center;
+}
+.table{
+    padding: 20px;
+}
+.tr{
+    text-align: center;
+    font-size: x-large;
+    margin-left: 28%;
+    margin-top: 10px;
+}
+.title{
+     text-align: center;
+     display: flex;              /* makes items sit side by side */
+      align-items: center;
+        
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+
+}
+.title h1{
+    margin-left: 18%;
+}
+.photo{
+    padding: 20px;
+}
+.booking{
+    display: flex;
+     text-align: center;
+      align-items: center;
+        
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+
+
+}
+.booking form{
+    margin-left: 15%;
+    font-size: xx-large;
+}
+.submit form{
+    font-size: xx-large;
+
+
+}
+.booked{
+    border-radius: 8px;
+    box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+}
+.God {
+    padding: 5px;
+    margin-left: 35%;
+}
+.Brochure{
+    padding: 20px;
+    text-align: center;
+    
+}
+.title a{
+    margin-left: 32%;
+    font-size: x-large;
+    text-decoration: none;
+    color: black;
+    
+}
+.title a:hover{
+    color: orange;
+    transition-duration: 0.5s;
+}
+.Brochure a{
+    font-size: x-large;
+}
+
+
+    
+    
+
+
+
